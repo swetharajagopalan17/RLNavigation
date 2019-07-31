@@ -8,8 +8,9 @@ So far, we have created these environments and tested them using the Gazebo simu
 
 ### Files to Add
 
-- [ ] Installation Guide 
-- [ ] Documentation for how to use the environment and learning algorithms
+- [x] Installation Guide 
+- [x] Documentation for how to use the environment and learning algorithms
+- [ ] Information on how to load the trained model on the real robot
 - [ ] Repository used for No and Static Obstacles
 - [ ] Repository used for Dynamic Obstacles
 - [ ] Internship Report
