@@ -10,7 +10,7 @@ So far, we have created these environments and tested them using the Gazebo simu
 
 - [x] Installation Guide 
 - [x] Documentation for how to use the environment and learning algorithms
-- [ ] Information on how to load the trained model on the real robot
-- [ ] Repository used for No and Static Obstacles
-- [ ] Repository used for Dynamic Obstacles
+- [x] Information on how to load the trained model on the real robot
+- [x] Repository used for No and Static Obstacles (sent via email)
+- [x] Repository used for Dynamic Obstacles (sent via email)
 - [ ] Internship Report
